@@ -22,7 +22,11 @@ WINEARCH=win32 WINEPREFIX=~/.wine/WeChat wine xxx.exe
 过一遍安装程序，安装完成后，desktop文件应该会自动生成，这个时候，微信应该就能用了。
 ## 最后
 使用wine-for-wechat这个包，这个包是针对微信和网易云音乐删去阴影，使这些应用的方框问题不复存在，就可以正常使用了。
-当然，你如果不用wine,用虚拟机也可以，这里就不说了。那么这篇文章就这样吧，不要忘记关注我的bilibili账号@diiiillllu,这个号可能会更点东西。
+当然，你如果不用wine,用虚拟机也可以，这里就不说了。
+
+
+## 注意
+这只是粗略的使用方法，可能有一定错误
 
   [1]: https://mirrors.ustc.edu.cn/help/archlinuxcn.html
   [2]: https://mirror.tuna.tsinghua.edu.cn/help/archlinuxcn/
